@@ -15,7 +15,6 @@ public class Customer {
     setAccountId(accountId);
   }
 
-
   public int getId() {
     return this.id;
   }
